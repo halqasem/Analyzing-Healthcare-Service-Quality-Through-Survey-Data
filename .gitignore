@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+*/venv/
+.venv/
+*/.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Data files (if large or sensitive and shouldn't be tracked)
+# data/raw/*
+# data/cleaned/*
+# outputs/*
